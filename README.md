@@ -1,4 +1,4 @@
-## Olá, meu nome é João Bomfim e sou aspirante a desenvolvedor!
+## Olá, meu nome é João Bomfim e sou aspirante a desenvolvedor Front-End!
 <div align="center">
   <a href="https://github.com/jj0han">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jj0han&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
