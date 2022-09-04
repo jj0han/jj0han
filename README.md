@@ -39,3 +39,12 @@
   ![](https://komarev.com/ghpvc/?username=jj0han)
  
 </div>
+
+<div>
+<h2>Idéias de projetos futuros</h2>
+  <ul>
+    <li>Advinhar palavra (Wordle)</li>
+    <li>Pesquisar por IP (IP Adress tracker)</li>
+    <li>Discord clone (Estático)</li>
+  </ul>
+</div>
