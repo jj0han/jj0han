@@ -21,6 +21,7 @@
   
   #### Back End
   ![PHP](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Express](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white)
   
   #### Database
   ![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
@@ -53,6 +54,5 @@
   <ul>
     <li>Advinhar palavra (Wordle)</li>
     <li>Pesquisar por IP (IP Adress tracker)</li>
-    <li>Discord clone (Estático)</li>
   </ul>
 </div>
