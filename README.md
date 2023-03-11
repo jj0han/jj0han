@@ -20,8 +20,9 @@
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   
   #### Back End
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Node](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![PHP](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Express](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white)
   
   #### Database
   ![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
@@ -36,7 +37,8 @@
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E)
+  ![Xampp](https://img.shields.io/badge/xampp-20232A?style=for-the-badge&logo=xampp&logoColor=FB7A24)
 
 ##
  
