@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=30&duration=3000&pause=3000&color=F0F0F0&vCenter=true&random=false&width=900&height=40&lines=Hi!+My+name+is+Jo%C3%A3o+Bomfim+and+I'm+a;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%AF%E3%82%B8%E3%83%A7%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%9C%E3%83%B3%E3%83%95%E3%82%A3%E3%83%A0%E3%81%A7%E3%81%99%E3%80%82%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E7%A7%81%E3%81%AF;Ol%C3%A1!+Meu+nome+%C3%A9+Jo%C3%A3o+Bomfim+e+eu+sou" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&duration=3000&color=1F74F7&multiline=true&repeat=false&random=false&width=550&height=60&lines=Front-End+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&duration=2000&pause=3000&color=1F74F7&vCenter=true&repeat=false&random=false&width=410&height=43&lines=Front-End+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -47,11 +47,13 @@
 
 <hr />
 
-<a>
-  <a href="https://github.com/jj0han">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jj0han&layout=compact&langs_count=7&theme=github_dark&"/>
+<a href="https://github.com/jj0han">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jj0han&hide_border=true&bg_color=0e0e0e,043077,3066d5&title_color=fff&text_color=fff&border_radius=12" />
+</a>
+<a href="https://github.com/jj0han">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jj0han&layout=compact&langs_count=8&theme=swift&hide_border=true&border_radius=12"/>
 </a>
 
-<a>
-  <img src="https://github.com/jj0han/jj0han/blob/output/github-contribution-grid-snake.svg"/>
-</a>
+<hr />
+
+![Snake animation](https://github.com/jj0han/jj0han/blob/output/github-contribution-grid-snake.svg)
