@@ -41,6 +41,7 @@
   #### Tools
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android_Studio-20232A?style=for-the-badge&logo=android%20studio&logoColor=3DDC84)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -51,11 +52,13 @@
   ![Google_Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
   
   #### Back-End
+  ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Node](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![PHP](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white)
   
   #### Database
+  ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
   ![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![SQL_Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -81,4 +84,4 @@
 
 <br />
 
-<blockquote>Simple things can be pretty too! ✨</blockquote>
+<blockquote>Simple things can be pretty cool! ✨</blockquote>
