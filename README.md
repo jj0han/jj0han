@@ -8,10 +8,7 @@
 </a>
 <div>
   <sup>
-    Currently Working at 
-    <strong>
-      Rural Business  
-    </strong>
+    
   </sup>
 </div>
   
@@ -28,19 +25,14 @@
   ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
   ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-  ![Ant_Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  ![Styled_Components](https://img.shields.io/badge/Styled_Components-CC6699?style=for-the-badge&logo=styledcomponents&logoColor=white)
+  ![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white)
   
 <hr />
 
   #### Tools
+  ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android_Studio-20232A?style=for-the-badge&logo=android%20studio&logoColor=3DDC84)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -48,13 +40,14 @@
   ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E)
+  ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
   ![Google_Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=FF6C37)
   
   #### Back-End
   ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Node](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![PHP](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white)
   
   #### Database
   ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
@@ -64,8 +57,10 @@
 <hr />
 
 #### Experience
-- `2024 - Currently` Full-Stack Developer at Rural Business
-- `2023` Front-End Developer at Rural Business
+- `05/2023 - 06/2025` Front-End Developer at [Rural Business](https://web.ruralbusiness.com.br)
+  ###### Create UI/UX desings on Figma.
+  ###### Website development: News Portal, Users Dashboards, all other Internal Systems.
+  ###### Eventual backend maintenance.
 
 <hr />
 
@@ -82,4 +77,4 @@
 
 <br />
 
-<blockquote>Simple things can be pretty cool! ✨</blockquote>
+<blockquote>Simple things can be pretty cool!</blockquote>
