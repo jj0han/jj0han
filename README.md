@@ -72,15 +72,6 @@
 
 <hr />
 
-<a href="https://github.com/jj0han">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jj0han&hide_border=true&bg_color=0e0e0e,043077,3066d5&title_color=fff&text_color=fff&border_radius=12" />
-</a>
-<a href="https://github.com/jj0han">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jj0han&layout=compact&langs_count=8&theme=github_dark&border_radius=12&title_color=fff"/>
-</a>
-
-<hr />
-
 ![Snake animation](https://github.com/jj0han/jj0han/blob/output/github-contribution-grid-snake-dark.svg)
 
 <br />
