@@ -61,7 +61,7 @@
 #### Experience (3 years)
 - `09/2025 - today` Front-End Developer at [FA Tech Brasil](https://fatechbrasil.com.br)
   ###### Create UI/UX desings on Figma for Websites and Mobile APPs.
-  ###### Website/Mobile development: Real-State Web Platform [SeuNovoCEP](https://seunovocep.com.br), Mobile Platform [SeuNovoCEP Mobile](https://play.google.com/store/apps/details?id=com.br.seunovocep&hl=pt_BR) and it's Admin/User Dashboards.
+  ###### Website/Mobile development: Real-State Web Platform, Mobile Platform and it's Admin/User Dashboards.
   ###### Maintenence on existing projects.
   ###### Eventual backend maintenance and add features.
   
