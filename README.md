@@ -26,6 +26,8 @@
   ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
   ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Zod](https://img.shields.io/badge/Zod-408AFF?logo=zod&logoColor=fff&style=for-the-badge)
+  ![GSAP](https://img.shields.io/badge/GSAP-0AE448?logo=gsap&style=for-the-badge&logoColor=000)
   ![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white)
   
 <hr />
@@ -35,6 +37,7 @@
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android_Studio-20232A?style=for-the-badge&logo=android%20studio&logoColor=3DDC84)
   ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -45,6 +48,7 @@
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
   ![Google_Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=FF6C37)
+  ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=fff&style=for-the-badge)
   
   #### Back-End
   ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
@@ -73,7 +77,3 @@
 <hr />
 
 ![Snake animation](https://github.com/jj0han/jj0han/blob/output/github-contribution-grid-snake-dark.svg)
-
-<br />
-
-<blockquote>Simple things can be pretty cool!</blockquote>
