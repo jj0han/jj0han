@@ -63,13 +63,13 @@
 <hr />
 
 #### Experience (3 years)
-- `09/2025 - today` Front-End Developer at [FA Tech Brasil](https://fatechbrasil.com.br)
+- `09/2025 - today` Front-End Developer at FA Tech Brasil
   ###### Create UI/UX desings on Figma for Websites and Mobile APPs.
   ###### Website/Mobile development: Real-State Web Platform, Mobile Platform and it's Admin/User Dashboards.
   ###### Maintenence on existing projects.
   ###### Eventual backend maintenance and add features.
   
-- `05/2023 - 06/2025` Front-End Developer at [Rural Business](https://web.ruralbusiness.com.br)
+- `05/2023 - 06/2025` Front-End Developer at Rural Business
   ###### Create UI/UX desings on Figma.
   ###### Website development: News Portal, Users Dashboards, all other Internal Systems.
   ###### Eventual backend maintenance.
