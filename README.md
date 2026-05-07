@@ -1,6 +1,5 @@
-<a href = "mailto:joaovieirabomfim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/joão-bomfim-957a04237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
-<a><img src="https://komarev.com/ghpvc/?username=jj0han&style=flat"></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:joaovieirabomfim@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/joão-bomfim-957a04237/)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=30&duration=3000&pause=3000&color=F0F0F0&vCenter=true&random=false&width=900&height=40&lines=Hi!+My+name+is+Jo%C3%A3o+Bomfim+and+I'm+a;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%AF%E3%82%B8%E3%83%A7%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%9C%E3%83%B3%E3%83%95%E3%82%A3%E3%83%A0%E3%81%A7%E3%81%99%E3%80%82%E3%81%9D%E3%81%97%E3%81%A6%E3%80%81%E7%A7%81%E3%81%AF;Ol%C3%A1!+Meu+nome+%C3%A9+Jo%C3%A3o+Bomfim+e+eu+sou" alt="Typing SVG" />
@@ -18,6 +17,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
   ![Tanstack](https://img.shields.io/badge/Tanstack-000000?style=for-the-badge&logo=tanstack&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=black088CC)
@@ -33,10 +33,11 @@
 <hr />
 
   #### Tools
+  ![Zed](https://img.shields.io/badge/Zed-084CCF?logo=zedindustries&logoColor=fff&style=for-the-badge)
   ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=https://raw.githubusercontent.com/ishandutta2007/open-antigravity/main/.github/assets/google-antigravity-logo.svg&logoColor=white)
+  ![VSCode](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white&style=for-the-badge)
   ![Android Studio](https://img.shields.io/badge/Android_Studio-20232A?style=for-the-badge&logo=android%20studio&logoColor=3DDC84)
-  ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -47,6 +48,7 @@
   ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E)
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
   ![Google_Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+  ![GPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=for-the-badge)
   ![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=FF6C37)
   ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=fff&style=for-the-badge)
   
@@ -55,7 +57,7 @@
   ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Node](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node.js&logoColor=white)
   
-  #### Database
+  #### ORM & Database
   ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
