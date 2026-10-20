@@ -82,3 +82,5 @@
 <hr />
 
 ![Snake animation](https://github.com/jj0han/jj0han/blob/output/github-contribution-grid-snake-dark.svg)
+
+<a href="https://www.exophase.com/user/jojaojoao/"><img src="https://card.exophase.com/2/0/339518.png?1792528359"></a>
